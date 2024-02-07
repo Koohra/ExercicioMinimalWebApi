@@ -1,0 +1,6 @@
+@MinimalWebApi_HostAddress = http://localhost:5296
+
+GET {{MinimalWebApi_HostAddress}}/helloworld/
+Accept: application/json
+
+###
